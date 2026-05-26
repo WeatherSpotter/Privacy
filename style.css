@@ -1,6 +1,6 @@
 body {
-    background-image: url('IMG_20211112_161012168_2.jpg');
-  }
+  background: linear-gradient(white, #2026BF);
+}
 
 .element {
     display: inline-block;  
