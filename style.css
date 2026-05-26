@@ -2,6 +2,10 @@ body {
   background: linear-gradient(white, #2026BF);
 }
 
+div {
+  max-width: 424px;
+}
+
 .element {
     display: inline-block;  
 }
