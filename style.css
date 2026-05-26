@@ -3,6 +3,7 @@ body {
 }
 
 div {
+  width: 100%
   max-width: 424px;
 }
 
